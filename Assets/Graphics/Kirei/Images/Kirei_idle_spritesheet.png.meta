@@ -54,6 +54,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -388,6 +389,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Kirei_idle_spritesheet_7: -4520759874172145210
+      Kirei_idle_spritesheet_5: -4072686835512221920
+      Kirei_idle_spritesheet_0: -7553694456960755193
+      Kirei_idle_spritesheet_2: -6715889110154715810
+      Kirei_idle_spritesheet_1: -5229133990528095109
+      Kirei_idle_spritesheet_8: 6685103020352271002
+      Kirei_idle_spritesheet_3: -6030536358129458089
+      Kirei_idle_spritesheet_9: 5970384249162309411
+      Kirei_idle_spritesheet_4: 5808208977647290103
+      Kirei_idle_spritesheet_6: 2251187110499998381
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

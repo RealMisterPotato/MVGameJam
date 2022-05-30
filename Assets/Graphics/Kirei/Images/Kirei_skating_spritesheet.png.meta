@@ -60,6 +60,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -436,6 +437,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Kirei_skating_spritesheet_6: 9162201711774911723
+      Kirei_skating_spritesheet_3: 5529300737678509750
+      Kirei_skating_spritesheet_11: 6074291851944049482
+      Kirei_skating_spritesheet_10: -232060638062054288
+      Kirei_skating_spritesheet_5: -3431832997880466318
+      Kirei_skating_spritesheet_0: 1943945543781777560
+      Kirei_skating_spritesheet_4: -4121796094116612118
+      Kirei_skating_spritesheet_2: -5084403962825769826
+      Kirei_skating_spritesheet_9: 6849661776483473798
+      Kirei_skating_spritesheet_8: -2588988289013008938
+      Kirei_skating_spritesheet_7: 689701300312656368
+      Kirei_skating_spritesheet_1: -9160385510132221895
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
